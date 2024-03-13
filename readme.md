@@ -2,7 +2,6 @@
 1. Wajib Python 3 
 2. Wajib VENV 
 
-
 Guidance for MacOS / Intel 
 1. source '/home/rani/Documents/code/project-zusammen/flask-template-venv/venv_flask/bin/activate'
 2. pip install flask 
